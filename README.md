@@ -2,7 +2,7 @@
 
 ---
 
-#### pc화면
+#### pc화면 - 새로고침 테스트
 
 ![pc화면](https://github.com/jeonpilseong/CSS-Responsive-Web-Design/blob/main/readme/pc%ED%99%94%EB%A9%B4.gif)
 
